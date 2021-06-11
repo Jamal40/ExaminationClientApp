@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.submit{
+    display: block;
+    margin:auto !important;
+    margin-top:1em !important;
+}
+.color-btn{
+    position: relative;
+}
